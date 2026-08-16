@@ -20,6 +20,8 @@ include_directories(
 
 add_library(cuda_edge_lib STATIC
     src/sobel_kernel.cu
+    src/kernels/sobel_naive.cu
+    src/kernels/sobel_constant.cu
     src/canny_cuda.cu
     src/cpu_reference.cpp
 )
