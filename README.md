@@ -142,7 +142,7 @@ make -j$(nproc)
 
 ## 👤 Author
 
-**Shashank Jangid** — Founder @ [Orange Future Tech](https://orangefuturetech.com)  
+**Shashank Jangid**  
 Portfolio: [shashankjangid.vercel.app](https://shashankjangid.vercel.app) · GitHub: [@ShashankJangid](https://github.com/ShashankJangid)
 
 ## License
